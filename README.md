@@ -3,7 +3,7 @@
 ## Description
 This project provides an in-depth analysis of global terrorism data from 1970 to 2020. It includes visualizations that highlight trends, regions, countries, attack types, and the impact of terrorism over the last five decades.
 
-A business report on this project is available on my [website](https://www.aakash.biz/projects/eda-project).
+A business report on this project is available in the repository itself.
 
 ## Overview
 The dataset used in this analysis is the Global Terrorism Database (GTD), which includes information on terrorist events worldwide. The analysis explores various aspects, such as:
